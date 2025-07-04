@@ -9,3 +9,10 @@ margin: 10px;
 background-color: yellow;
 
 }
+.apne{
+background-color: tomato;
+background-image: url(imag.jpeg);
+background-repeat: no-repeat;
+background-size: 50px;
+
+}
